@@ -14,8 +14,7 @@ import com.alibaba.chaosblade.exec.plugin.jvm.oom.executor.impl.OffHeapJvmOomExe
 /**
  * @author haibin
  * @date 2019-04-18
- * @email haibin.lhb@alibaba-inc.com
- */
+*/
 public class JvmOomExecutorFacade implements StoppableActionExecutor {
 
     private final List<JvmOomExecutor> jvmOomExecutors = new ArrayList<JvmOomExecutor>();

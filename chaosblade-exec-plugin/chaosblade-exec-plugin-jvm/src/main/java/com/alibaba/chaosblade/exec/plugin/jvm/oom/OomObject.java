@@ -5,8 +5,7 @@ package com.alibaba.chaosblade.exec.plugin.jvm.oom;
  *
  * @author haibin
  * @date 2019-04-18
- * @email haibin.lhb@alibaba-inc.com
- */
+*/
 public class OomObject {
 
     public OomObject() {

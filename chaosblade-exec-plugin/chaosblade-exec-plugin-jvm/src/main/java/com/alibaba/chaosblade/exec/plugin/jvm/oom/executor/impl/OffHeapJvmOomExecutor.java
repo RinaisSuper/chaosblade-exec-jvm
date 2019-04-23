@@ -11,8 +11,7 @@ import com.alibaba.chaosblade.exec.plugin.jvm.oom.executor.JvmOomExecutor;
 /**
  * @author haibin
  * @date 2019-04-18
- * @email haibin.lhb@alibaba-inc.com
- */
+*/
 public class OffHeapJvmOomExecutor extends JvmOomExecutor {
 
     private static final int _1MB = 1024 * 1024;

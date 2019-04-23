@@ -18,8 +18,7 @@ import org.slf4j.LoggerFactory;
  *
  * @author haibin
  * @date 2019-04-18
- * @email haibin.lhb@alibaba-inc.com
- */
+*/
 public abstract class JvmOomExecutor implements ActionExecutor, StoppableActionExecutor {
 
     protected AtomicBoolean started = new AtomicBoolean(false);

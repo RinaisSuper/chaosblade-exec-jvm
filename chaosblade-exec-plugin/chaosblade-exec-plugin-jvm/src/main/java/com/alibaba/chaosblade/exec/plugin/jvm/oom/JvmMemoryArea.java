@@ -5,8 +5,7 @@ import java.nio.ByteBuffer;
 /**
  * @author haibin
  * @date 2019-04-18
- * @email haibin.lhb@alibaba-inc.com
- */
+*/
 public enum JvmMemoryArea {
 
     /**

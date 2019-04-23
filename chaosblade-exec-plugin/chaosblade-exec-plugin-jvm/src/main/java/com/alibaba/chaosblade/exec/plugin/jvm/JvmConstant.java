@@ -3,8 +3,7 @@ package com.alibaba.chaosblade.exec.plugin.jvm;
 /**
  * @author haibin
  * @date 2019-04-18
- * @email haibin.lhb@alibaba-inc.com
- */
+*/
 public final class JvmConstant {
 
     public static String FLAG_NAME_MEMORY_AREA = "area";
